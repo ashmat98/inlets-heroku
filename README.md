@@ -2,6 +2,10 @@
 
 Author: [ngxson](https://github.com/ngxson)
 
+## Updated on 17 Feb 2022
+inlets changed to inlets-pro
+Non-working version, yet.
+
 ## What is this?
 
 Briefly, `inlets` let you expose your localhost to the Internet, through any NAT or firewall.
@@ -16,7 +20,7 @@ Tutorial on LinkedIn: [Set your own "ngrok alternative"​ on Heroku](https://ww
 
 Just click this button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ngxson/inlets-heroku/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ashmat98/inlets-heroku/tree/master)
 
 P/s: for the password, you can choose a simple one like `this1sMypassw0rd`
 
